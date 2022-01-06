@@ -23,7 +23,7 @@ h1{
     padding-top: 5%;
     padding-right: 5%;
     padding-left: 5%;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -51,6 +51,7 @@ h1{
     display: flex;
     padding-left: 100px;
     padding-right: 100px;
+    
 }
 
 .three-division img{
@@ -62,7 +63,7 @@ h1{
     padding:2%;
     margin: 2%;
     border-radius: 20px;
-    margin-bottom: 100PX;
+    margin-bottom: 80PX;
     text-align: justify;
 }
 #second-div{
@@ -71,7 +72,7 @@ h1{
     padding:2%;
     margin: 2%;
     border-radius: 20px;
-    margin-bottom: 100PX;
+    margin-bottom: 80PX;
     text-align: justify;
 }
 #third-div{
@@ -80,7 +81,7 @@ h1{
     padding:2%;
     margin: 2%;
     border-radius: 20px;
-    margin-bottom: 100PX;
+    margin-bottom: 80PX;
     text-align: justify;
 }
 .learning-limits{
@@ -109,12 +110,28 @@ h1{
     background-size: 220px;
     background-repeat: no-repeat;
     background-position: Right;
-    padding-bottom:300px;
+    padding-bottom:100px;
     margin:20px;
+}
+.extra-part{
+    display: flex;
+}
+#web-dev-image img{
+    width: 70%;
+    box-shadow: 30px 30px 20px gray;
+    border-radius: 25px;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#my-website{
+    width: 70%;
+    margin-bottom: 10%;
+    margin-right: 2%;
+    
 }
 .footer{
     margin: 0%;
-    background-color:black;
+    background-color:#141414;
     text-align: center;
     padding: 20px;
     
@@ -124,5 +141,4 @@ h1{
 }
 .footer p{
     color: white;
-
 }
